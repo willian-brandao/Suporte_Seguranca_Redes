@@ -77,11 +77,23 @@ Um técnico pode escolher um ou mais dos seguintes métodos para resolver proble
 ## Diretrizes para Selecionar um Método de Solução de Problemas
 
 Para resolver rapidamente problemas de rede, selecione  método de identificação e solução de problemas de rede mais eficaz. 
-
+<p align="center">
 <img width="775" height="699" alt="image" src="https://github.com/user-attachments/assets/034a6f9b-4245-45bd-b080-8139733e00c2" />
+</p>
+<br>
 
 Por exemplo, os problemas de software geralmente são resolvidos usando uma abordagem de cima para baixo, enquanto o problema baseado em hardware é resolvido usandoa abordagem de baixo para cima. Novos problemas podem ser resolvidos por um técnico experiente usando o método dividr e conquistar. Caso contrário, pode ser utilizada a abordagem de baixo para cima. 
-Solução de problemas é uma habilidade desenvolvia ao fazê-lo. Cada problema de rede que você identificar e resolver é adicionado ao seu conjutno de habilidades. 
+Solução de problemas é uma habilidade desenvolvia ao fazê-lo. Cada problema de rede que você identificar e resolver é adicionado ao seu conjunto de habilidades. 
+
+## Documentar Descobertas, Ações e Resultados
+
+Após a resolução de todos os problemas, é importante concluir  processo de solução de problemas documentando todas as informações. 
+
+Um técnico deve documentar:
+
+* Problema - Inclui o relatório do problema, uma descrição dos sintomas, informações coletadas e qualquer outra informação que ajude a resolver problemas semelhantes.
+* Solução - Inclui as etapas executadas para resolver o problema.
+* Comandos e Ferramentas Usadas - Inclui os comandos e ferramentas usadas para diagnosticar o problema e resolvê-lo.
 
 
 
